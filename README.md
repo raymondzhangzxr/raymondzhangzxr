@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ray Zhang xzhan227@jhu.edu
+- 👋 Hi, I’m Ray Zhang 
 - 👀 I’m a Robotics & CS Master student at JHU. 
 - [Personal Website](https://raymondzhangzxr.github.io/personalWebsite/)
 - Email: xzhan227@jhu.edu
